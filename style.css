@@ -1,5 +1,4 @@
-    @import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Big+Shoulders+Display&family=Monoton&display=swap'");
-  
+
     *,
     html,
     body {
@@ -40,11 +39,12 @@
     ul li,
     a {
         font-family: fontawesome;
-        font-size: xx-large;
+        font-size: large;
+        text-decoration: none;
     }
     
     a:hover {
-        color: chocolate;
+        color: blue;
     }
     
     h1,

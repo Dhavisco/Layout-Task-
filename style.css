@@ -1,6 +1,5 @@
     @import url("https://fonts.googleapis.com/css2?family=Lexend+Deca&family=Big+Shoulders+Display&family=Monoton&display=swap'");
-    /***** flex only Section *****/
-    
+  
     *,
     html,
     body {
@@ -40,7 +39,7 @@
     
     ul li,
     a {
-        font-family: Monoton;
+        font-family: fontawesome;
         font-size: xx-large;
     }
     
